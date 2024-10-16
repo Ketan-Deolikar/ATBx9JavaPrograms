@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab026.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +64,14 @@
     "Application.Lab016.executor": "Run",
     "Application.Lab017.executor": "Run",
     "Application.Lab018.executor": "Run",
+    "Application.Lab019.executor": "Run",
+    "Application.Lab020.executor": "Run",
+    "Application.Lab021.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -143,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728995841760</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My Files">
+      <option name="closed" value="true" />
+      <created>1729073226723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729073226723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

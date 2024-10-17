@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +74,15 @@
     "Application.Lab024.executor": "Run",
     "Application.Lab025.executor": "Run",
     "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab030.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -156,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729087391829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My Files">
+      <option name="closed" value="true" />
+      <created>1729128478597</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729128478597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

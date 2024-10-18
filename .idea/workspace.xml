@@ -4,41 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab057_typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab058_typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab059_typecasting.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 14 Oct">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab065.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Increment_decrement/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Ternary/Lab060.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Ternary/Lab061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_15102024_Ternary/Lab062.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab027.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab028.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab029.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab029.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab030.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab030.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab031.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab032.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab033.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab034.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab035.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab036.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab037.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab038.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab038.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab039.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab040.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab040.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab041.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab041.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab042.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab043.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab044.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab045.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab045.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab046.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab048.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab048.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab049.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab050.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,9 +110,21 @@
     "Application.Lab057_typecasting.executor": "Run",
     "Application.Lab058_typecasting.executor": "Run",
     "Application.Lab059_typecasting.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Ketan/IdeaProjects/ATBx9JavaPrograms/src/Main.java",
@@ -239,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729159863199</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My Files 14 Oct">
+      <option name="closed" value="true" />
+      <created>1729246628093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729246628093</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,7 +272,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Files" />
+    <MESSAGE value="My Files 14 Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Files 14 Oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

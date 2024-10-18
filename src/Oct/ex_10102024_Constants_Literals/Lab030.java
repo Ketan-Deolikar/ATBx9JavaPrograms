@@ -1,6 +1,4 @@
-package Oct.ex_10102024;
-
-import org.w3c.dom.ls.LSOutput;
+package Oct.ex_10102024_Constants_Literals;
 
 public class Lab030 {
     int i_age;

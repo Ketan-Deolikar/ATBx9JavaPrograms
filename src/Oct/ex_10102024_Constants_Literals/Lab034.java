@@ -1,4 +1,4 @@
-package Oct.ex_10102024;
+package Oct.ex_10102024_Constants_Literals;
 
 public class Lab034 {
 

@@ -5,21 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab055.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab057_typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab058_typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14102024_OperatorsP2/Lab059_typecasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab027.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab028.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab029.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab029.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab030.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab030.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab031.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab031.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab032.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab032.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab034.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab035.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab035.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab036.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_10102024_Constants_Literals/Lab036.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab037.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab037.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab038.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab038.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab040.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab041.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab041.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab044.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab044.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab045.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab045.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab048.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab048.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab050.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +121,15 @@
     "Application.Lab047.executor": "Run",
     "Application.Lab048.executor": "Run",
     "Application.Lab049.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057_typecasting.executor": "Run",
+    "Application.Lab058_typecasting.executor": "Run",
+    "Application.Lab059_typecasting.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -156,9 +184,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab001" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +278,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Oct/ex_11102024/Lab037.java</url>
+          <url>file://$PROJECT_DIR$/src/Oct/ex_11102024_Operators/Lab037.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

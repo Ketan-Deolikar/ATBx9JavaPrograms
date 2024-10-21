@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 14 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_Conditions_Loops/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_Conditions_Loops/Lab064_Arguments_Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_16102024_Conditions_Loops/Lab065_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab066_If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab067_If_Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab069.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab071_Odd_Even_Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_17102024_IfCondition/Lab072_If_ElseIf_Else.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 14 Oct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +112,7 @@
     "Application.Lab071.executor": "Run",
     "Application.Lab071_Odd_Even_Program.executor": "Run",
     "Application.Lab072_If_ElseIf_Else.executor": "Run",
+    "Application.Lab073_HackerrankQ.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -259,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729246628093</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="My Files 14 Oct">
+      <option name="closed" value="true" />
+      <created>1729491913166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729491913166</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

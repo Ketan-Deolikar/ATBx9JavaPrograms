@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 17 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024_ForLoop/Lab101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Do_While/Lab109_Do_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab103_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab104_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab105_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab106_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab108_While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,6 +151,14 @@
     "Application.Lab098.executor": "Run",
     "Application.Lab099.executor": "Run",
     "Application.Lab100.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103_While.executor": "Run",
+    "Application.Lab104_While.executor": "Run",
+    "Application.Lab105_While.executor": "Run",
+    "Application.Lab106_While.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108_While.executor": "Run",
+    "Application.Lab109_Do_While.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -174,7 +172,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">

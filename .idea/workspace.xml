@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 17 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_Do_While/Lab109_Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab103_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab104_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab105_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab106_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_WhileLoop/Lab108_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_23102024_Functions/Lab116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,6 +157,13 @@
     "Application.Lab107.executor": "Run",
     "Application.Lab108_While.executor": "Run",
     "Application.Lab109_Do_While.executor": "Run",
+    "Application.Lab110_While.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab112.executor": "Run",
+    "Application.Lab113.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab115.executor": "Run",
+    "Application.Lab116.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",

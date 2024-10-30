@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 24 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab120_String_Created.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab121_String_Immutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab122_String_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024_Strings/Lab122_String_Equals_part2.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 28 Oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Functions_Arrays/Lab123_String_Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Functions_Arrays/Lab124_StringBuilder_StringBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,6 +167,8 @@
     "Application.Lab121_String_Immutable.executor": "Run",
     "Application.Lab122_String_Equals.executor": "Run",
     "Application.Lab122_String_Equals_part2.executor": "Run",
+    "Application.Lab123_String_Functions.executor": "Run",
+    "Application.Lab124_StringBuilder_StringBuffer.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -355,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730182916500</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="My Files 28 Oct">
+      <option name="closed" value="true" />
+      <created>1730205797972</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730205797972</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +399,8 @@
     <MESSAGE value="My Files 17 Oct" />
     <MESSAGE value="My Files 23 Oct" />
     <MESSAGE value="My Files 24 Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Files 24 Oct" />
+    <MESSAGE value="My Files 28 Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Files 28 Oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 28 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Functions_Arrays/Lab123_String_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024_Strings_Functions_Arrays/Lab124_StringBuilder_StringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab125_Arrays_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab126_Arrays_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab127_Arrays_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab128_Arrays_Iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab129_Arrays_Max_Value_InterviewQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab129_Arrays_Max_Value_InterviewQ_Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab130_Arrays_UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,6 +174,13 @@
     "Application.Lab122_String_Equals_part2.executor": "Run",
     "Application.Lab123_String_Functions.executor": "Run",
     "Application.Lab124_StringBuilder_StringBuffer.executor": "Run",
+    "Application.Lab125_Arrays_P1.executor": "Run",
+    "Application.Lab126_Arrays_P2.executor": "Run",
+    "Application.Lab127_Arrays_Strings.executor": "Run",
+    "Application.Lab128_Arrays_Iterate.executor": "Run",
+    "Application.Lab129_Arrays_Max_Value_InterviewQ.executor": "Run",
+    "Application.Lab129_Arrays_Max_Value_InterviewQ_Easy.executor": "Run",
+    "Application.Lab130_Arrays_UserInput.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -362,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730205797972</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="My Files 28 Oct">
+      <option name="closed" value="true" />
+      <created>1730291836614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730291836614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

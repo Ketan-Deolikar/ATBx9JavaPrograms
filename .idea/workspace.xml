@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 28 Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab125_Arrays_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab126_Arrays_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab127_Arrays_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab128_Arrays_Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab129_Arrays_Max_Value_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab129_Arrays_Max_Value_InterviewQ_Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024_Arrays/Lab130_Arrays_UserInput.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 29 Oct">
+      <change afterPath="$PROJECT_DIR$/src/Nov/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/Lab139_OOPs_Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/Lab140_Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/Lab141_Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05102024_OOPs/StudentsATB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_Constructors/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_Constructors/Lab142_Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_Constructors/Lab143_Constructors_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_OOPs_Constructors/Lab144_Constructors_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab131_Arrays_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab132_Arrays_ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab133_Arrays_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab134_Arrays_2D_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab135_Arrays_2D_Interate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab136_Arrays_2D_Iterate_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024_Arrays/Lab138_Right_Triangle_2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,6 +192,17 @@
     "Application.Lab129_Arrays_Max_Value_InterviewQ.executor": "Run",
     "Application.Lab129_Arrays_Max_Value_InterviewQ_Easy.executor": "Run",
     "Application.Lab130_Arrays_UserInput.executor": "Run",
+    "Application.Lab131_Arrays_Exception.executor": "Run",
+    "Application.Lab132_Arrays_ForEach.executor": "Run",
+    "Application.Lab133_Arrays_2D.executor": "Run",
+    "Application.Lab134_Arrays_2D_P1.executor": "Run",
+    "Application.Lab135_Arrays_2D_Interate.executor": "Run",
+    "Application.Lab136_Arrays_2D_Iterate_P1.executor": "Run",
+    "Application.Lab138_Right_Triangle_2D.executor": "Run",
+    "Application.Lab139_OOPs_Object_Class.executor": "Run",
+    "Application.Lab140_Object_Class.executor": "Run",
+    "Application.Lab141_Object_Class.executor": "Run",
+    "Application.Lab144_Constructors_P3.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
@@ -382,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730291836614</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="My Files 29 Oct">
+      <option name="closed" value="true" />
+      <created>1730623816616</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730623816616</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +450,8 @@
     <MESSAGE value="My Files 23 Oct" />
     <MESSAGE value="My Files 24 Oct" />
     <MESSAGE value="My Files 28 Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Files 28 Oct" />
+    <MESSAGE value="My Files 29 Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Files 29 Oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

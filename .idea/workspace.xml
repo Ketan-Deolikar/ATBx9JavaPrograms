@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 08 Nov">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Police/Cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Police/JrCop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Police/Lab154_Ecap_AM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Real/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Real/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Real/TestCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/Real/TestCase3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Enapsulation_Part2/criminal/Thief.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 11 Nov">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab155_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab156_InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab160_Interface_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab161_Interface_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab162_P3_Multiple_Inheritance_Solved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab163_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab164_Static_IIB_SIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab165_Real_SIB_IIB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab166.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab167_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab168_ENUM_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab170_ENUM_P3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,6 +215,13 @@
     "Application.Lab152_Ecap.executor": "Run",
     "Application.Lab153.executor": "Run",
     "Application.Lab154_Ecap_AM.executor": "Run",
+    "Application.Lab155_Super.executor": "Run",
+    "Application.Lab158.executor": "Run",
+    "Application.Lab159.executor": "Run",
+    "Application.Lab163_Static.executor": "Run",
+    "Application.Lab164_Static_IIB_SIB.executor": "Run",
+    "Application.Lab165_Real_SIB_IIB.executor": "Run",
+    "Application.Lab170_ENUM_P3.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Python.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -433,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731837660456</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="My Files 11 Nov">
+      <option name="closed" value="true" />
+      <created>1731839916071</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731839916071</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +498,8 @@
     <MESSAGE value="My Files 29 Oct" />
     <MESSAGE value="My Files 06 Nov" />
     <MESSAGE value="My Files 08 Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Files 08 Nov" />
+    <MESSAGE value="My Files 11 Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Files 11 Nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

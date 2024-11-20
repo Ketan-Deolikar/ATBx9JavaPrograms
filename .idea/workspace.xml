@@ -5,25 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 11 Nov">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab155_Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab156_InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab160_Interface_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab161_Interface_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Lab162_P3_Multiple_Inheritance_Solved.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_SuperKeyword_Abstraction/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab163_Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab164_Static_IIB_SIB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab165_Real_SIB_IIB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab166.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab167_ENUM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab168_ENUM_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab170_ENUM_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab171_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab172_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab173_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab174_Exception_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab175_Exception_Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab176_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab177_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab178_Exceptions_Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab179_Exceptions_Handle_Part2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndPoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -221,7 +216,12 @@
     "Application.Lab163_Static.executor": "Run",
     "Application.Lab164_Static_IIB_SIB.executor": "Run",
     "Application.Lab165_Real_SIB_IIB.executor": "Run",
+    "Application.Lab169.executor": "Run",
     "Application.Lab170_ENUM_P3.executor": "Run",
+    "Application.Lab174_Exception_Example.executor": "Run",
+    "Application.Lab175_Exception_Problem.executor": "Run",
+    "Application.Lab176_Exceptions.executor": "Run",
+    "Application.Lab179_Exceptions_Handle_Part2.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Python.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -264,6 +264,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_14112024_Static_Wrapper_Exceptions.Lab169" />
+      <module name="ATBx9JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_14112024_Static_Wrapper_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task.task03102024.Task2" />
       <module name="ATBx9JavaPrograms" />
@@ -292,12 +305,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab064_Arguments_Console" />
+      <item itemvalue="Application.Lab169" />
       <item itemvalue="Application.Lab063" />
       <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Task3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab169" />
         <item itemvalue="Application.Lab063" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task3" />

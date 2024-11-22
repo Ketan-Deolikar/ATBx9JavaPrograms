@@ -5,19 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 11 Nov">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab171_Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab172_Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab173_Conversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab174_Exception_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab175_Exception_Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab176_Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab177_Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab178_Exceptions_Handle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_15112024_Wrapper_Exceptions_Part2/Lab179_Exceptions_Handle_Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab180_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab181_Exception_Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab181_Exceptions_OkOk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab182_Exceptions_OkOk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab183_Exceptions_Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab184_Exception_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab185_Exceptions_Finally_Explain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab186_Multiple_Catches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab187_Multiple_Catch_OR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab188_Multiple_Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab189_TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab190_Interview_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab191_UnChecked_Checked_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab192_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab193_Try_Catch_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab194_Custom_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab195_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_18112024_Exceptions_Part2/Lab196_Finally_Not_Executed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/APIConstantsEndPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov/ex_14112024_Static_Wrapper_Exceptions/Lab169.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +228,23 @@
     "Application.Lab175_Exception_Problem.executor": "Run",
     "Application.Lab176_Exceptions.executor": "Run",
     "Application.Lab179_Exceptions_Handle_Part2.executor": "Run",
+    "Application.Lab180_Exceptions.executor": "Run",
+    "Application.Lab181_Exception_Good.executor": "Run",
+    "Application.Lab182_Exceptions_OkOk.executor": "Run",
+    "Application.Lab183_Exceptions_Good.executor": "Run",
+    "Application.Lab184_Exception_Finally.executor": "Run",
+    "Application.Lab185_Exceptions_Finally_Explain.executor": "Run",
+    "Application.Lab186_Multiple_Catches.executor": "Run",
+    "Application.Lab187_Multiple_Catch_OR.executor": "Run",
+    "Application.Lab188_Multiple_Try.executor": "Run",
+    "Application.Lab189_TryCatch.executor": "Run",
+    "Application.Lab190_Interview_Exception.executor": "Run",
+    "Application.Lab191_UnChecked_Checked_Example.executor": "Run",
+    "Application.Lab192_Throws.executor": "Run",
+    "Application.Lab193_Try_Catch_P2.executor": "Run",
+    "Application.Lab194_Custom_Exception.executor": "Run",
+    "Application.Lab195_Strings.executor": "Run",
+    "Application.Lab196_Finally_Not_Executed.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Python.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -472,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731839916071</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="My Files 11 Nov">
+      <option name="closed" value="true" />
+      <created>1732095050863</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1732095050863</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

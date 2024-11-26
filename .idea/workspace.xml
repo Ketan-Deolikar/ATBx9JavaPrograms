@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 20 Nov">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab207_LL_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab208_AL_LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab209_AL_Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab210_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab211_ArrayList_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab212_SET.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab213_SET_HS__LHS_TS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab214_HS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab215_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Lab216_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_21112024_List_Set_Collection_Framework/Student.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="My Files 21 Nov">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab217_Map_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab218_Map_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab219_Map_Real_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab220_Map_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab221_Map_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab222_Map_P5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +41,9 @@
     &quot;accountId&quot;: &quot;b5880e20-a104-43a5-94dc-e04d6b38d637&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Nov/ex_22112024_Map_Collection_Framework/Lab217_Map_P1.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -259,6 +257,12 @@
     "Application.Lab214_HS.executor": "Run",
     "Application.Lab215_Vector.executor": "Run",
     "Application.Lab216_Queue.executor": "Run",
+    "Application.Lab217_Map_P1.executor": "Run",
+    "Application.Lab218_Map_P2.executor": "Run",
+    "Application.Lab219_Map_Real_Example.executor": "Run",
+    "Application.Lab220_Map_P3.executor": "Run",
+    "Application.Lab221_Map_P4.executor": "Run",
+    "Application.Lab222_Map_P5.executor": "Run",
     "Application.Lab61.executor": "Run",
     "Application.Python.executor": "Run",
     "Application.Task2.executor": "Run",
@@ -533,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732517960410</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="My Files 21 Nov">
+      <option name="closed" value="true" />
+      <created>1732537737397</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732537737397</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -577,7 +589,8 @@
     <MESSAGE value="My Files 11 Nov" />
     <MESSAGE value="My Files 18 Nov" />
     <MESSAGE value="My Files 20 Nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="My Files 20 Nov" />
+    <MESSAGE value="My Files 21 Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Files 21 Nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

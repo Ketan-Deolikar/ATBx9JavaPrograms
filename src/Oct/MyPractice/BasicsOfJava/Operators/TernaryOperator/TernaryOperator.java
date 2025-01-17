@@ -1,4 +1,4 @@
-package Oct.MyPractice.BasicsOfJava.Operators;
+package Oct.MyPractice.BasicsOfJava.Operators.TernaryOperator;
 
 public class TernaryOperator {
     public static void main(String[] args) {

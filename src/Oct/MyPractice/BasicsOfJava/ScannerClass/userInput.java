@@ -20,5 +20,7 @@ public class userInput {
         System.out.println("Name: " + name);
         System.out.println("Age: " + age);
         System.out.println("Salary: $" + salary);
+
+
     }
 }

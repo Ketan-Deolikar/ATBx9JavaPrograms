@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="Task 14th Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/LargestOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/TernaryOperator.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="Task 15th Oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/Lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/Lab002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Application.InstanceOfOperator.executor": "Run",
     "Application.JrCop.executor": "Run",
     "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
     "Application.Lab010.executor": "Run",
     "Application.Lab011.executor": "Run",
     "Application.Lab012.executor": "Run",
@@ -266,6 +266,7 @@
     "Application.Lab61.executor": "Run",
     "Application.LargestOfThree.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
+    "Application.Oct.MyPractice.BasicsOfJava.Operators.TernaryOperator.Lab001.executor": "Run",
     "Application.PriceDisplay.executor": "Run",
     "Application.PrintTableF.executor": "Run",
     "Application.Python.executor": "Run",
@@ -602,7 +603,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737094944402</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task 15th Oct">
+      <option name="closed" value="true" />
+      <created>1737099724940</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737099724940</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,7 +660,8 @@
     <MESSAGE value="Task 9th Oct" />
     <MESSAGE value="Task 11th Oct" />
     <MESSAGE value="Task 14th Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 14th Oct" />
+    <MESSAGE value="Task 15th Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 15th Oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

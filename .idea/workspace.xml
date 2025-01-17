@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="Task 9th Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/BitwiseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/InstanceOfOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/RelationalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/UnaryOperators.java" afterDir="false" />
+    <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="Task 11th Oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/SpecialOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TypeCastOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TypeCasting/GameScore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +57,7 @@
     "Application.ArithmeticOperators.executor": "Run",
     "Application.BitwiseOperators.executor": "Run",
     "Application.Child.executor": "Run",
+    "Application.GameScore.executor": "Run",
     "Application.InstanceOfOperator.executor": "Run",
     "Application.JrCop.executor": "Run",
     "Application.Lab001.executor": "Run",
@@ -272,11 +269,13 @@
     "Application.PrintTableF.executor": "Run",
     "Application.Python.executor": "Run",
     "Application.RelationalOperators.executor": "Run",
+    "Application.SpecialOperators.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Run",
     "Application.TernaryOperator.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Thief.executor": "Run",
+    "Application.TypeCastOperator.executor": "Run",
     "Application.UnaryOperators.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.ex_25102024.executor": "Run",
@@ -586,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737008376164</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Task 11th Oct">
+      <option name="closed" value="true" />
+      <created>1737093916341</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737093916341</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -633,7 +640,8 @@
     <MESSAGE value="My Files 21 Nov" />
     <MESSAGE value="My Files 22 Nov" />
     <MESSAGE value="Task 9th Oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 9th Oct" />
+    <MESSAGE value="Task 11th Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 11th Oct" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="837f007c-9b5e-4248-931b-e0b65f7874d5" name="Changes" comment="Task 15th Oct">
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/Operators/TernaryOperator/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/MyPractice/BasicsOfJava/ScannerClass/userInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,6 +281,7 @@
     "Application.UnaryOperators.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "Application.ex_25102024.executor": "Run",
+    "Application.userInput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -611,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737099724940</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Task 15th Oct">
+      <option name="closed" value="true" />
+      <created>1737100063110</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737100063110</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
